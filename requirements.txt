@@ -1,0 +1,5 @@
+anthropic
+pillow
+numpy
+imageio
+imageio-ffmpeg
